@@ -1,5 +1,5 @@
 # IA
-Practicas de la asignatura IA (inteligencia artificial), cuatrimestre de primavera del curso 2020-2021.
+Prácticas de la asignatura IA (inteligencia artificial), cuatrimestre de primavera del curso 2020-2021.
 
 **_Practica 1_**: código fuente y ejecutable de la primera práctica (red de sensores en Java).
 
